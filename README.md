@@ -6,7 +6,7 @@
 Atori is an AI bot that finds someone in Slack who can help with your coding issue.
 
 
-[![atori.ai demo](http://img.youtube.com/vi/N8z6gWCH6wE/0.jpg)](https://www.youtube.com/watch?v=N8z6gWCH6wE "Video Title")
+[![atori.ai demo](http://img.youtube.com/vi/N8z6gWCH6wE/0.jpg)](https://www.youtube.com/watch?v=N8z6gWCH6wE "atori.ai demo")
 
 [AngelList](https://angel.co/atori) | [Slack](https://atori.slack.com/apps/A5W71B85U-atori) | [ProductHunt](https://www.producthunt.com/posts/atori) | [Github](https://github.com/AtoriAI) 
 
